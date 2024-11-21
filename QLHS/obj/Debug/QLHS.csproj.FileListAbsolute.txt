@@ -1,0 +1,7 @@
+C:\Users\ADMIN\source\repos\QLHS\QLHS\bin\Debug\QLHS.exe.config
+C:\Users\ADMIN\source\repos\QLHS\QLHS\bin\Debug\QLHS.exe
+C:\Users\ADMIN\source\repos\QLHS\QLHS\bin\Debug\QLHS.pdb
+C:\Users\ADMIN\source\repos\QLHS\QLHS\obj\Debug\QLHS.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\QLHS\QLHS\obj\Debug\QLHS.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\QLHS\QLHS\obj\Debug\QLHS.exe
+C:\Users\ADMIN\source\repos\QLHS\QLHS\obj\Debug\QLHS.pdb
