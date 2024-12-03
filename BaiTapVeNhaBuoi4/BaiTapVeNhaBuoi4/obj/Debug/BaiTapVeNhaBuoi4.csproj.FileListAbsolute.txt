@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\bin\Debug\BaiTapVeNhaBuoi4.exe.config
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\bin\Debug\BaiTapVeNhaBuoi4.exe
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\bin\Debug\BaiTapVeNhaBuoi4.pdb
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.frmGridView.resources
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.exe
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.pdb
+C:\Users\ADMIN\source\repos\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.NhanVienForm.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\bin\Debug\BaiTapVeNhaBuoi4.exe.config
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\bin\Debug\BaiTapVeNhaBuoi4.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\bin\Debug\BaiTapVeNhaBuoi4.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.frmGridView.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.NhanVienForm.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\BaiTapVeNhaBuoi4\obj\Debug\BaiTapVeNhaBuoi4.pdb
